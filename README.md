@@ -1,4 +1,4 @@
-# Laptop-price-prediction-using-regression-problem
+"📌" # Laptop-price-prediction-using-regression-problem
 In this end-to-end Python project, we tackled the problem of predicting laptop prices using a Linear Regression model. The goal was to build a machine learning model that can accurately predict the price of laptops based on various features. The project involved data preprocessing, model training, evaluation, and finally deploying the model using Streamlit.
 
 Here are the key steps of the project:
