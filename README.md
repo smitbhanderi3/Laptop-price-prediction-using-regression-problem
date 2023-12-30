@@ -27,6 +27,9 @@ The Streamlit app's user interface was designed to be user-friendly, allowing us
 **Conclusion**:<br>
 The laptop price prediction project using Linear Regression and deployed with Streamlit successfully addressed the regression problem with good accuracy. The deployment via Streamlit allowed users to conveniently predict laptop prices based on their desired configurations, making it a valuable tool for both consumers and retailers.
 
-By completing this project, we gained valuable experience in end-to-end machine learning, from data preprocessing and model training to deployment and creating an interactive web application using Streamlit.
+By completing this project, we gained valuable experience in end-to-end machine learning, from data preprocessing and model training to deployment and creating an interactive web application using Streamlit. <br>
 
+  You can now view your Streamlit app in your browser. <br>
 
+  Local URL: http://localhost:8504 <br>
+  Network URL: http://192.168.29.57:8504
